@@ -1,12 +1,11 @@
 package com.microservico.estoquepreco.connections;
 
+import org.rabbitmq.contantes.RabbitMQConstantes;
 import org.springframework.amqp.core.AmqpAdmin;
 import org.springframework.amqp.core.Binding;
 import org.springframework.amqp.core.DirectExchange;
 import org.springframework.amqp.core.Queue;
 import org.springframework.stereotype.Component;
-
-import com.microservico.estoquepreco.constantes.RabbitMQConstantes;
 
 import jakarta.annotation.PostConstruct;
 
