@@ -2,3 +2,8 @@ librabbitmq/.classpath
 librabbitmq/.project
 librabbitmq/target/
 librabbitmq/.settings/
+consumidor-estoque-java/target/
+consumidor-estoque-java/.settings/
+consumidor-estoque-java/.mvn/
+consumidor-estoque-java/.project
+consumidor-estoque-java/.classpath
